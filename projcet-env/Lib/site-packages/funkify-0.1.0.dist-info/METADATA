@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: funkify
+Version: 0.1.0
+Summary: Funkify modules so that they are callable
+Home-page: https://github.com/dynamic-graphics-inc/dgpy-libs
+License: MIT
+Keywords: funk,dgpy,python,modules,funky
+Author: jesse
+Author-email: jesse@dgi.com
+Requires-Python: >=3.6.1,<4.0.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Typing :: Typed
+Project-URL: Repository, https://github.com/dynamic-graphics-inc/dgpy-libs
